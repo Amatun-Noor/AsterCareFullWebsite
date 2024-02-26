@@ -1,0 +1,19 @@
+#hero {
+  width: 100%;
+  height: 100vh;
+  background: url("../img/images/volunteerHero.jpeg") top center;
+  background-size: cover;
+  position: relative;
+  padding: 0;
+  
+}
+
+a.email-link {
+    text-decoration: underline;
+    color: #0000EE;
+    cursor: pointer;
+}
+
+a.email-link:hover {
+    color: #FF4500;
+}
